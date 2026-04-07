@@ -67,4 +67,4 @@ Key Findings
 
 Stack
 
-•	
+•Python, scikit-learn, XGBoost	
