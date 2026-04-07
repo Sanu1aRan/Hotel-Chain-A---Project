@@ -1,4 +1,5 @@
 Overview
+
 Hotel Chain A was losing significant revenue due to booking cancellations and no-shows. This project builds a machine learning model to predict booking outcomes and help the hotel take early action.
 
 Problem
@@ -9,6 +10,7 @@ Predict one of 3 booking outcomes from historical data:
 •	No-Show — guest never arrives without notice
 
 Data
+
 Provided directly by Hotel Chain A:
 •	Training: 26,993 bookings after cleaning
 •	Validation: 2,733 bookings
