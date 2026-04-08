@@ -1,6 +1,6 @@
 overview
 
-Hotel Chain A was losing significant revenue due to booking cancellations and no-shows. This project builds a machine learning model to predict booking outcomes and help the hotel take early action.
+Hotel Chain A was losing significant revenue due to booking cancellations and no-shows.This project builds a machine learning model to predict booking outcomes and help the hotel take early action.
 
 Problem
 
